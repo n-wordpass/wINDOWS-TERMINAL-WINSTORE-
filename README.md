@@ -1,5 +1,5 @@
 # wINDOWS TERMINAL (WINSTORE VERSION)
-
+<img src="https://cdn.discordapp.com/attachments/595487735620304898/603383004227960852/unknown.png"></img>
 ## Theme
 ```json
 {
